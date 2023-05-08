@@ -1,0 +1,15 @@
+{
+  "name": "D-C-TS",
+  "description": "translate drag & capture",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "D-C-TS"
+  },
+  "icons": {
+    "16": "logo192.png",
+    "48": "logo192.png",
+    "128": "logo192.png"
+  }
+}
