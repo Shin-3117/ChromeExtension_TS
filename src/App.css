@@ -1,0 +1,4 @@
+.onOffBox{
+    display: flex;
+    flex-direction: row;
+}
